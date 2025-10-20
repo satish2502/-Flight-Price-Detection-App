@@ -83,5 +83,5 @@ To build an interactive, reliable tool for predicting airfare prices using advan
 
 *(Include a screenshot or Streamlit app GIF here)*
 
-> Example: `![App Preview]([preview.png](https://github.com/satish2502/-Flight-Price-Detection-App/blob/main/Screenshot%202025-10-20%20182345.png))`
+> Example: `![App Preview](https://github.com/satish2502/-Flight-Price-Detection-App/blob/main/Screenshot%202025-10-20%20182345.png))`
 
